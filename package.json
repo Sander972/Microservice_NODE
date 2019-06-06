@@ -6,8 +6,6 @@
     "main": "pathToMain",
     "dependencies": {
         "express": "^4.16.3",
-        "mssql": "^4.1.0",
-        "request": "^2.86.0",
-        "request-promise-native": "^1.0.5"
+        "mssql": "^4.1.0"
     }
 }
