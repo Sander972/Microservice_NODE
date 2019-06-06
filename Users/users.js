@@ -7,9 +7,9 @@ let router = express.Router();
 router.use(bodyParser.json());
 
 const config = {
-    user: 'itsuser',
-    password: 'user100%',
-    server: 'its-dottor.database.windows.net',
+    user: 'suser',
+    password: 'password',
+    server: 'iserver', 
     database: 'testNode',
     port: 1433,
     options: {
